@@ -1,1 +1,1 @@
-# Manual-Tech-Recruiter
+# Tech_Recruiter_Manual
